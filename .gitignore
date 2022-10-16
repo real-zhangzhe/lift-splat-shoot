@@ -134,3 +134,6 @@ goodmodel.pt.bak
 storage/
 imagenet_pretrained/
 *.csv
+
+# dataset
+dataset/
